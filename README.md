@@ -1,1 +1,2 @@
-[My wakatime ](https://wakatime.com/@Nekopan1529)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
