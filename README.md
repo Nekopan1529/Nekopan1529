@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 17 July 2024 - To: 23 September 2024
+From: 17 July 2024 - To: 24 September 2024
 
-Total Time: 73 hrs 44 mins
+Total Time: 75 hrs 51 mins
 
-Java              38 hrs 1 min    >>>>>>>>>>>>>------------   50.28 %
-C                 23 hrs 22 mins  >>>>>>>>-----------------   30.92 %
-YAML              2 hrs 51 mins   >------------------------   03.78 %
-HTML              1 hr 59 mins    >------------------------   02.64 %
-Other             1 hr 53 mins    >------------------------   02.50 %
+Java              39 hrs 59 mins  >>>>>>>>>>>>>------------   51.45 %
+C                 23 hrs 22 mins  >>>>>>>>-----------------   30.08 %
+YAML              2 hrs 51 mins   >------------------------   03.68 %
+HTML              1 hr 59 mins    >------------------------   02.57 %
+Other             1 hr 53 mins    >------------------------   02.43 %
 ```
 
 <!--END_SECTION:waka-->
