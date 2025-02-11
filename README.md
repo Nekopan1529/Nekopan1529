@@ -3,14 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 17 July 2024 - To: 09 February 2025
+From: 17 July 2024 - To: 10 February 2025
 
-Total Time: 117 hrs 15 mins
+Total Time: 117 hrs 20 mins
 
-Java              53 hrs 50 mins  >>>>>>>>>>>--------------   45.15 %
-C                 37 hrs 20 mins  >>>>>>>>-----------------   31.30 %
+Java              53 hrs 55 mins  >>>>>>>>>>>--------------   45.18 %
+C                 37 hrs 20 mins  >>>>>>>>-----------------   31.28 %
 Go                7 hrs 1 min     >------------------------   05.88 %
-Python            2 hrs 3 mins    -------------------------   01.73 %
+Python            2 hrs 3 mins    -------------------------   01.72 %
 C++               2 hrs 1 min     -------------------------   01.70 %
 Other             2 hrs 1 min     -------------------------   01.69 %
 ```
